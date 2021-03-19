@@ -1,4 +1,4 @@
-/*Программа, которая вызывает функцию main из файла execChild.c*/
+/*Программа, которая вызывает функцию main из файла Child.c*/
 
 #include <stdio.h>
 #include <unistd.h>
