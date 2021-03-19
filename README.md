@@ -1,6 +1,6 @@
 Запуск
 
-\* gcc -o r reciever.c && ./r \*
+\*gcc -o r reciever.c && ./r\*
 
 Отправка сигнала SIGUSR1 или SIGUSR2:
 
